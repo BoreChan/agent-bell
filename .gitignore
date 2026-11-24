@@ -1,0 +1,9 @@
+bin/
+obj/
+output/
+
+# Design drafts and local planning notes
+/design/blue-ripples.png
+/design/orange-sign.png
+/design/quiet-check.png
+/docs/superpowers/
